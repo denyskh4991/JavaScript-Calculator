@@ -23,7 +23,7 @@ The calculator features a dark background with bright, easily readable text and 
 Buttons are designed with rounded corners, padding, and shadow effects, providing a tactile and visually pleasing interface. 
 <h2>Technical Overview</h2>
 <h3>- HTML Structure</h3>
-The HTML document is structured around a central `<div>` container (`.container`) that houses the calculator interface. Key components include the display area and multiple rows of buttons for input. 
+The HTML document is structured around a central `div` container (`.container`) that houses the calculator interface. Key components include the display area and multiple rows of buttons for input. 
 <h3>- CSS Styling</h3>
 The CSS file defines the visual layout and design elements of the calculator: <h4>Container Layout</h4> The container is centered on the page using CSS flexbox, ensuring the calculator is prominently displayed and easy to use. 
 <h4>Color and Typography</h4>
